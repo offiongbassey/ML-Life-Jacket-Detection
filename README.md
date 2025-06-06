@@ -1,4 +1,5 @@
 # ML-Life-Jacket-Detection
+![Life Jacket Demo](assets/screenshot.png)
 This is a machine learning-powered system that detects whether individuals are wearing life jackets in real-time. When someone is detected without a life jacket, the system raises an alert with the message:
 "⚠️ Attention: Please wear your life jacket."
 
